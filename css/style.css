@@ -8,3 +8,11 @@ header{
     border-top: 50px solid rgba(0, 0, 0, 0);
     width: 200px;
 }
+
+.autore {
+    color:  rgb(78, 160, 255);
+}
+
+.info-articolo{
+    color: gray;
+}
