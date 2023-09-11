@@ -22,11 +22,13 @@ header{
 }
 
 th {
-    background-color:   rgb(78, 160, 255);
+    background-color:  rgb(32, 169, 229);
+    text-align: left;
+    color: white;
 }
 
 .dispari{
-    background-color: lightblue;
+    background-color:rgb(176, 229, 242);
 }
 
 td{
