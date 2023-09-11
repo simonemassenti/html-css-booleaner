@@ -16,3 +16,7 @@ header{
 .info-articolo{
     color: gray;
 }
+
+.evidenziato{
+    background-color: yellow;
+}
