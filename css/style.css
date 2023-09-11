@@ -13,7 +13,7 @@ header{
     color:  rgb(78, 160, 255);
 }
 
-.info-articolo{
+.info{
     color: gray;
 }
 
@@ -39,4 +39,21 @@ td{
 
 table{
     border-collapse: collapse;
+}
+
+.interessarti{
+    width: 250px;
+    height: 200px;
+    border: 1px solid black;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.monitor{
+    background-image: url(../img/monitor.jpg);
+}
+
+.graph{
+    background-image: url(../img/graph.jpg);
 }
